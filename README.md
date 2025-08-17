@@ -1,13 +1,13 @@
-# testingproject
+# TESTINGPROJECT
 
-##PREREQUISITOS
+## PREREQUISITOS
 Tener instalado los siguientes paquetes:
 
--Python
--Pytest
--Selenium
--Webdriver-manager
+- Python
+- Pytest
+- Selenium
+- Webdriver-manager
 
-##INSTRUCCIONES PARA EJECUTAR
+## INSTRUCCIONES PARA EJECUTAR
 Ejecutar el siguiente comando
--python -m pytest -q
+- python -m pytest -q
